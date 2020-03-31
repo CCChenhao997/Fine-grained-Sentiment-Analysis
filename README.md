@@ -92,7 +92,11 @@
 
 - **[ACL-2019]** DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction [[paper]](https://www.aclweb.org/anthology/P19-1056/)
 
-<img src="./img/DOER.png" width="600px;"/>
+<p align="center">
+  <img src="./img/DOER.png" width="600px;"/>
+</p>
+
+ 
 
 ------
 
