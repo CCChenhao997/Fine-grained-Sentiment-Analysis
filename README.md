@@ -76,6 +76,12 @@
 
 <img src="./img/E2E-ABSA-BERT-Xin Li.png" width="500px;"/>
 
+
+
+- **[ACL-2019]** DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction [[paper]](https://www.aclweb.org/anthology/P19-1056/)
+
+<img src="./img/DOER.png" width="600px;"/>
+
 ------
 
 ### Complete ABSA
@@ -91,6 +97,12 @@
 - **[IJCAI-2018]** Aspect Term Extraction with History Attention and Selective Transformation [[paper]](https://arxiv.org/abs/1805.00760)
 
 <img src="./img/HAST.png" width="600px;"/>
+
+
+
+- **[ACL-2018]** Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction [[paper]](https://www.aclweb.org/anthology/P18-2094/)
+
+<img src="./img/DE-CNN.png" width="400px;"/>
 
 ------
 
