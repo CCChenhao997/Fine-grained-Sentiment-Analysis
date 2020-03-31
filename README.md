@@ -27,23 +27,27 @@
 
 - **[ACL-2017]** Recurrent Attention Network on Memory for Aspect Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/D17-1047/)
 
-<img src="./img/RAM.png" width="500px;"/>
+<p align="center">
+  <img src="./img/RAM.png" width="500px;"/>
+</p>
 
 
 
 - **[IJCAI-2017]** Interactive Attention Networks for Aspect-Level Sentiment Classification [[paper]](https://arxiv.org/abs/1709.00893)
 
-<img src="./img/IAN.png" width="500px;"/>
+<p align="center">
+  <img src="./img/IAN.png" width="500px;"/>
+</p>
 
 
 
 - **[IJCAI-2017]** Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks [[paper]](https://arxiv.org/abs/1709.00893)
 
-<img src="./img/AOA.png" width="600px;"/>
+<p align="center">
+  <img src="./img/AOA.png" width="600px;"/>
+</p>
 
-
-
-
+  
 
 - **[ACL-2018]** Aspect Based Sentiment Analysis with Gated Convolutional Networks [[paper]](https://www.aclweb.org/anthology/P18-1234/)
 
@@ -60,7 +64,11 @@
 
 - **[EMNLP-2018]** Multi-grained Attention Network for Aspect-Level Sentiment Classification [[paper]](https://www.aclweb.org/anthology/D18-1380/)
 
-<img src="./img/MGAN.png" width="500px;"/>
+<p align="center">
+  <img src="./img/MGAN.png" width="500px;"/>
+</p>
+
+  
 
 ------
 
@@ -68,15 +76,19 @@
 
 - **[AAAI-2019]** A Uniﬁed Model for Opinion Target Extraction and Target Sentiment Prediction [[paper]](https://arxiv.org/abs/1811.05082)
 
-<img src="./img/E2E-ABSA-Uniﬁed-Model-Xin Li.png" width="600px;"/>
+<p align="center">
+  <img src="./img/E2E-ABSA-Uniﬁed-Model-Xin Li.png" width="600px;"/>
+</p>
 
-
+  
 
 - **[EMNLP-2019]** Exploiting BERT for End-to-End Aspect-based Sentiment Analysis [[paper]](https://arxiv.org/abs/1910.00883)
 
-<img src="./img/E2E-ABSA-BERT-Xin Li.png" width="500px;"/>
+<p align="center">
+  <img src="./img/E2E-ABSA-BERT-Xin Li.png" width="500px;"/>
+</p>
 
-
+  
 
 - **[ACL-2019]** DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction [[paper]](https://www.aclweb.org/anthology/P19-1056/)
 
@@ -88,7 +100,11 @@
 
 - **[AAAI-2020]** Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis [[paper]](https://arxiv.org/abs/1911.01616v2)
 
-<img src="./img/What-How-Why.png" width="400px;"/>
+<p align="center">
+  <img src="./img/What-How-Why.png" width="400px;"/>
+</p>
+
+  
 
 ------
 
@@ -96,13 +112,19 @@
 
 - **[IJCAI-2018]** Aspect Term Extraction with History Attention and Selective Transformation [[paper]](https://arxiv.org/abs/1805.00760)
 
-<img src="./img/HAST.png" width="600px;"/>
+<p align="center">
+  <img src="./img/HAST.png" width="600px;"/>
+</p>
 
 
 
 - **[ACL-2018]** Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction [[paper]](https://www.aclweb.org/anthology/P18-2094/)
 
-<img src="./img/DE-CNN.png" width="400px;"/>
+<p align="center">
+  <img src="./img/DE-CNN.png" width="400px;"/>
+</p>
+
+ 
 
 ------
 
@@ -110,15 +132,23 @@
 
 - **[AAAI-2017]** Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms [[paper]](http://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/15-Wang-W-14441.pdf)
 
-<img src="./img/CMLA.png" width="800px;"/>
+<p align="center">
+  <img src="./img/CMLA.png" width="800px;"/>
+</p>
 
-------
+
+
+-----------
 
 ### Emotion Classiﬁcation
 
 - **[EMNLP-2018]** Improving Multi-label Emotion Classiﬁcation via Sentiment Classiﬁcation with Dual Attention Transfer Network [[paper]](https://www.aclweb.org/anthology/D18-1137/)
 
-<img src="./img/DATN.png" width="500px;"/>
+<p align="center">
+  <img src="./img/DATN.png" width="500px;"/>
+</p>
+
+  
 
 ------
 
