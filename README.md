@@ -15,6 +15,8 @@
 | ABSA             | sentence, aspect | aspect sentiment                            |
 | E2E-ABSA         | sentence         | aspect term, aspect sentiment               |
 | Complete-ABSA    | sentence         | aspect term, aspect sentiment, opinion term |
+| ATE              | sentence         | aspect term                                 |
+| OTE              | sentence         | opinion term                                |
 | ATE&OTE          | sentence         | aspect term, opinion term                   |
 | Emotion Analysis | sentence         | joy, anger, fear, etc.                      |
 |                  |                  |                                             |
@@ -47,7 +49,7 @@
   <img src="./img/AOA.png" width="600px;"/>
 </p>
 
-  
+
 
 - **[ACL-2018]** Aspect Based Sentiment Analysis with Gated Convolutional Networks [[paper]](https://www.aclweb.org/anthology/P18-1234/)
 
@@ -86,7 +88,7 @@
   <img src="./img/E2E-ABSA-Uniﬁed-Model-Xin Li.png" width="600px;"/>
 </p>
 
-  
+
 
 - **[EMNLP-2019]** Exploiting BERT for End-to-End Aspect-based Sentiment Analysis [[paper]](https://arxiv.org/abs/1910.00883)
 
@@ -94,7 +96,7 @@
   <img src="./img/E2E-ABSA-BERT-Xin Li.png" width="500px;"/>
 </p>
 
-  
+
 
 - **[ACL-2019]** DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction [[paper]](https://www.aclweb.org/anthology/P19-1056/)
 
@@ -102,7 +104,6 @@
   <img src="./img/DOER.png" width="600px;"/>
 </p>
 
- 
 
 ------
 
@@ -114,7 +115,6 @@
   <img src="./img/What-How-Why.png" width="400px;"/>
 </p>
 
-  
 
 ------
 
@@ -134,7 +134,16 @@
   <img src="./img/DE-CNN.png" width="400px;"/>
 </p>
 
- 
+
+-------------
+
+### OTE
+
+- **[NAACL-2019]** Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling [[paper]](https://www.aclweb.org/anthology/N19-1259/) [[code]](https://github.com/NJUNLP/TOWE)
+
+<p align="center">
+  <img src="./img/TOWE.png" width="600px;"/>
+</p>
 
 ------
 
@@ -147,7 +156,6 @@
 </p>
 
 
-
 -----------
 
 ### Emotion Classiﬁcation
@@ -158,7 +166,6 @@
   <img src="./img/DATN.png" width="500px;"/>
 </p>
 
-  
 
 ------
 
