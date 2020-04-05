@@ -78,6 +78,12 @@
 </p>
   
 
+- **[EMNLP-2019]** A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis [[paper]](https://arxiv.org/abs/1909.00324) [[code]](https://github.com/XL2248/AGDT)
+
+<p align="center">
+  <img src="./img/AGDT.png" width="600px;"/>
+</p>
+
 ------
 
 ### E2E-ABSA
