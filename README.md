@@ -24,6 +24,22 @@
 | Emotion Analysis | sentence         | joy, anger, fear, etc.                      |
 |                  |                  |                                             |
 
+--------------
+
+## Performance (Accuracy / Macro-F1)
+
+### ASC Models
+
+|           | 14SemEval-REST | 14SemEval-LAPTOP | 14-TWITTER  |
+| --------- | :------------: | :--------------: | :---------: |
+| TD_LSTM   |       -        |        -         |  70.8/69.0  |
+| TC-LSTM   |       -        |        -         |  71.5/69.5  |
+| ATAE-LSTM |     77.2/-     |      68.7/       |      -      |
+| MemNet    |  78.16/65.83   |   70.33/64.09    | 68.50/66.91 |
+| IAN       |     78.6/-     |      72.1/-      |      -      |
+| RAM       |  80.23/70.80   |   74.49/71.35    | 69.36/67.30 |
+| MGAN      |  81.25/71.94   |   75.39/72.47    | 72.54/70.81 |
+
 ------
 
 ## Paper list
