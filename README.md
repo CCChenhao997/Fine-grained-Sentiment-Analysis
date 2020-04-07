@@ -67,7 +67,7 @@
 
 
 
-- **[IJCAI-2017]** Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks [[paper]](https://arxiv.org/abs/1709.00893)
+- **[IJCAI-2017]** Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks [[paper]](https://arxiv.org/abs/1804.06536)
 
 <p align="center">
   <img src="./img/AOA.png" width="600px;"/>
