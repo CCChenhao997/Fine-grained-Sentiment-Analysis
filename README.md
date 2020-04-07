@@ -2,17 +2,20 @@
 
 ## Tasks
 
-- ABSA: Aspect Based Sentiment Analysis
-- E2E-ABSA
-- Complete ABSA
-- ATE & OTE: Aspect Term Extraction and Opinion Term Extraction
+- ABSA
+  - ASC: Aspect Sentiment Classification
+  - E2E-ABSA
+  - Complete ABSA
+  - ATE: Aspect Term Extraction
+  - OTE: Opinion Term Extraction
+
 - Emotion Analysis
 
 
 
 | Tasks            | Input            | Output                                      |
 | ---------------- | :--------------- | ------------------------------------------- |
-| ABSA             | sentence, aspect | aspect sentiment                            |
+| ASC              | sentence, aspect | aspect sentiment                            |
 | E2E-ABSA         | sentence         | aspect term, aspect sentiment               |
 | Complete-ABSA    | sentence         | aspect term, aspect sentiment, opinion term |
 | ATE              | sentence         | aspect term                                 |
@@ -25,7 +28,7 @@
 
 ## Paper list
 
-### ABSA
+### ASC
 
 - **[ACL-2017]** Recurrent Attention Network on Memory for Aspect Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/D17-1047/)
 
