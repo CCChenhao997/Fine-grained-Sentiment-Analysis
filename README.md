@@ -30,6 +30,17 @@
 
 ### ASC
 
+- **[COLING-2016]** Effective LSTMs for Target-Dependent Sentiment Classification [[paper]](https://www.aclweb.org/anthology/C16-1311/)
+
+<p align="center">
+  <img src="./img/TD-LSTM.png" width="550px;"/>
+  <img src="./img/TC-LSTM.png" width="550px;"/>
+</p>
+
+
+
+--------
+
 - **[ACL-2017]** Recurrent Attention Network on Memory for Aspect Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/D17-1047/)
 
 <p align="center">
