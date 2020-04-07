@@ -46,7 +46,7 @@
 <p align="center">
   <img src="./img/RAM.png" width="500px;"/>
 </p>
-
+------------
 
 
 - **[IJCAI-2017]** Interactive Attention Networks for Aspect-Level Sentiment Classification [[paper]](https://arxiv.org/abs/1709.00893)
@@ -54,7 +54,7 @@
 <p align="center">
   <img src="./img/IAN.png" width="500px;"/>
 </p>
-
+--------------
 
 
 - **[IJCAI-2017]** Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks [[paper]](https://arxiv.org/abs/1709.00893)
@@ -62,7 +62,7 @@
 <p align="center">
   <img src="./img/AOA.png" width="600px;"/>
 </p>
-
+--------------
 
 
 - **[ACL-2018]** Aspect Based Sentiment Analysis with Gated Convolutional Networks [[paper]](https://www.aclweb.org/anthology/P18-1234/)
@@ -75,7 +75,7 @@
         </center></td>
     </tr>
 </table>
-
+-----------------
 
 
 - **[EMNLP-2018]** Multi-grained Attention Network for Aspect-Level Sentiment Classification [[paper]](https://www.aclweb.org/anthology/D18-1380/)
@@ -83,14 +83,14 @@
 <p align="center">
   <img src="./img/MGAN.png" width="500px;"/>
 </p>
-
+------------
 
 - **[ACL-2018]** Transformation Networks for Target-Oriented Sentiment Classiﬁcation [[paper]](https://www.aclweb.org/anthology/P18-1087/)
 
 <p align="center">
   <img src="./img/TNet.png" width="500px;"/>
 </p>
-  
+---------
 
 - **[EMNLP-2019]** A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis [[paper]](https://arxiv.org/abs/1909.00324) [[code]](https://github.com/XL2248/AGDT)
 
@@ -107,7 +107,7 @@
 <p align="center">
   <img src="./img/E2E-ABSA-Uniﬁed-Model-Xin Li.png" width="600px;"/>
 </p>
-
+----------
 
 
 - **[EMNLP-2019]** Exploiting BERT for End-to-End Aspect-based Sentiment Analysis [[paper]](https://arxiv.org/abs/1910.00883)
@@ -115,7 +115,7 @@
 <p align="center">
   <img src="./img/E2E-ABSA-BERT-Xin Li.png" width="500px;"/>
 </p>
-
+-------------
 
 
 - **[ACL-2019]** DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction [[paper]](https://www.aclweb.org/anthology/P19-1056/)
@@ -145,7 +145,7 @@
 <p align="center">
   <img src="./img/HAST.png" width="600px;"/>
 </p>
-
+---------------
 
 
 - **[ACL-2018]** Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction [[paper]](https://www.aclweb.org/anthology/P18-2094/)
