@@ -4,8 +4,8 @@
 
 - ABSA
   - ASC: Aspect Sentiment Classification
-    - ATSC: Aspect Term Sentiment Classification
-    - ACSC: Aspect Category Sentiment Classification
+    - ATSA: Aspect-Term Sentiment Analysis
+    - ACSA: Aspect-Category Sentiment Analysis
   - E2E-ABSA
   - Complete ABSA
   - ATE: Aspect Term Extraction
