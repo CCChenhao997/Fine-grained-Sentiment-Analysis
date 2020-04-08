@@ -21,10 +21,9 @@
 | E2E-ABSA         | sentence         | aspect term, aspect sentiment               |
 | Complete-ABSA    | sentence         | aspect term, aspect sentiment, opinion term |
 | ATE              | sentence         | aspect term                                 |
-| OTE              | sentence         | opinion term                                |
+| OTE              | sentence, aspect | opinion term                                |
 | ATE&OTE          | sentence         | aspect term, opinion term                   |
 | Emotion Analysis | sentence         | joy, anger, fear, etc.                      |
-|                  |                  |                                             |
 
 --------------
 
@@ -202,6 +201,16 @@
 <p align="center">
   <img src="./img/DE-CNN.png" width="400px;"/>
 </p>
+
+
+----------------
+
+- **[ACL-2019]** Exploring Sequence-to-Sequence Learning in Aspect Term Extraction [[paper]](https://www.aclweb.org/anthology/P19-1344/)
+
+<p align="center">
+  <img src="./img/Seq2Seq4ATE.png" width="500px;"/>
+</p>
+
 
 
 -------------
