@@ -205,7 +205,7 @@
 
 ----------------
 
-- **[ACL-2019]** Exploring Sequence-to-Sequence Learning in Aspect Term Extraction [[paper]](https://www.aclweb.org/anthology/P19-1344/)
+- **[ACL-2019]** Exploring Sequence-to-Sequence Learning in Aspect Term Extraction [[paper]](https://www.aclweb.org/anthology/P19-1344/) [[code]](https://github.com/madehong/Seq2Seq4ATE)
 
 <p align="center">
   <img src="./img/Seq2Seq4ATE.png" width="500px;"/>
