@@ -60,7 +60,6 @@
 </p>
 
 
-
 --------
 
 - **[ACL-2017]** Recurrent Attention Network on Memory for Aspect Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/D17-1047/)
@@ -89,7 +88,7 @@
 
 
 
-- **[IJCAI-2017]** Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks [[paper]](https://arxiv.org/abs/1804.06536)
+- **[SBP-BRiMS-2018]** Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks [[paper]](https://arxiv.org/abs/1804.06536)
 
 <p align="center">
   <img src="./img/AOA.png" width="600px;"/>
@@ -137,7 +136,6 @@
 <p align="center">
   <img src="./img/AGDT.png" width="600px;"/>
 </p>
-
 
 
 ------
@@ -196,7 +194,7 @@
 ---------------
 
 
-- **[ACL-2018]** Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction [[paper]](https://www.aclweb.org/anthology/P18-2094/)
+- **[ACL-2018]** Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction [[paper]](https://www.aclweb.org/anthology/P18-2094/) [[code]](https://github.com/howardhsu/DE-CNN)
 
 <p align="center">
   <img src="./img/DE-CNN.png" width="400px;"/>
@@ -212,7 +210,6 @@
 </p>
 
 
-
 -------------
 
 ### OTE
@@ -222,7 +219,6 @@
 <p align="center">
   <img src="./img/TOWE.png" width="600px;"/>
 </p>
-
 ------
 
 ### ATE & OTE
@@ -252,7 +248,7 @@
 - [ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch)
 - 2018 CCF-汽车行业用户观点主题及情感识别ASC挑战赛
   - Rank 1 [[code]](https://github.com/yilifzf/BDCI_Car_2018)
-  - Rank 7 [[code]](https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018)
+  - Rank 6 [[code]](https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018)
 - 2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析
   - Rank 1 [[code]](https://github.com/chenghuige/wenzheng) [[link]](https://tech.meituan.com/2019/01/25/ai-challenger-2018.html)
   - Rank 16 [[code]](https://github.com/xueyouluo/fsauor2018)
