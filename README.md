@@ -60,6 +60,16 @@
 </p>
 
 
+----------
+
+- **[EMNLP-2016]** Attention-based LSTM for Aspect-level Sentiment Classification [[paper]](https://www.aclweb.org/anthology/D16-1058/)
+
+<p align="center">
+  <img src="./img/ATAE-LSTM.png" width="600px;"/>
+</p>
+
+
+
 ------------
 
 - **[EMNLP-2016]** Aspect Level Sentiment Classification with Deep Memory Network [[paper]](https://www.aclweb.org/anthology/D16-1021/)
