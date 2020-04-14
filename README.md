@@ -60,6 +60,16 @@
 </p>
 
 
+------------
+
+- **[EMNLP-2016]** Aspect Level Sentiment Classification with Deep Memory Network [[paper]](https://www.aclweb.org/anthology/D16-1021/)
+
+<p align="center">
+  <img src="./img/MemNet.png" width="500px;"/>
+</p>
+
+
+
 --------
 
 - **[ACL-2017]** Recurrent Attention Network on Memory for Aspect Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/D17-1047/)
