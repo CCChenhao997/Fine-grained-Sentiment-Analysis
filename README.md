@@ -142,6 +142,18 @@
 
 ------------
 
+- **[COLING-2018]** A Position-aware Bidirectional Attention Network for Aspect-level Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/C18-1066/)
+
+
+
+<p align="center">
+  <img src="./img/PBAN.png" width="500px;"/>
+</p>
+
+
+
+------------
+
 - **[ACL-2018]** Transformation Networks for Target-Oriented Sentiment Classiﬁcation [[paper]](https://www.aclweb.org/anthology/P18-1087/)
 
 <p align="center">
