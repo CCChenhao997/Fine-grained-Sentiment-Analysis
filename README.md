@@ -171,6 +171,16 @@
 </p>
 
 
+-------------
+
+- **[EMNLP-2019]** Recognizing Conﬂict Opinions in Aspect-level Sentiment Classiﬁcation with Dual Attention Networks [[paper]](https://www.aclweb.org/anthology/D19-1342/) [[code]](https://github.com/tanxw17/DATGRU)
+
+<p align="center">
+  <img src="./img/D-AT-GRU.png" width="500px;"/>
+</p>
+
+
+
 ------
 
 ### E2E-ABSA
