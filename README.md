@@ -181,6 +181,16 @@
 
 
 
+----------------
+
+- **[EMNLP-2019]** Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree [[paper]](https://www.aclweb.org/anthology/D19-1569/) [[code]](https://github.com/sunkaikai/CDT_ABSA)
+
+<p align="center">
+  <img src="./img/CDT.png" width="700px;"/>
+</p>
+
+
+
 ------
 
 ### E2E-ABSA
