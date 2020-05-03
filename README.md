@@ -311,6 +311,7 @@
 ## Projects & Competition
 
 - [ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch)
+- [BERT-for-RRC-ABSA](https://github.com/howardhsu/BERT-for-RRC-ABSA)
 - 2018 CCF-汽车行业用户观点主题及情感识别ASC挑战赛
   - Rank 1 [[code]](https://github.com/yilifzf/BDCI_Car_2018)
   - Rank 6 [[code]](https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018)
