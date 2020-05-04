@@ -44,6 +44,7 @@
 | (2018) TNet-AS   | 76.54/71.75 | 80.69/71.27 | 74.97/73.60 |      -      |      -      |
 | (2018) PBAN      |   74.12/-   |   81.16/-   |      -      |      -      |      -      |
 | (2019) AGDT      |   75.86/-   |   82.95/-   |      -      |      -      |      -      |
+| (2019) IACapsNet | 76.80/73.29 | 81.79/73.40 | 75.01/73.81 |             |             |
 | (2019) ASGCN-DG  | 75.55/71.05 | 80.77/72.02 | 72.15/70.40 | 79.89/61.89 | 88.99/67.48 |
 | (2019) CDT       | 77.19/72.99 | 82.30/74.02 | 74.66/73.66 |      -      | 85.58/69.93 |
 
@@ -183,12 +184,22 @@
 
 
 
+-------------
+
+- **[EMNLP-2019]** Capsule Network with Interactive Attention for Aspect-Level Sentiment Classiﬁcation [[paper]](https://www.aclweb.org/anthology/D19-1551/)
+
+<p align="center">
+  <img src="./img/IACapsNet.png" width="450px;"/>
+</p>
+
+
+
 --------------
 
 - **[EMNLP-2019]** Aspect-based Sentiment Classiﬁcation with Aspect-speciﬁc Graph Convolutional Networks [[paper]](https://arxiv.org/abs/1909.03477) [[code]](https://github.com/GeneZC/ASGCN)
 
 <p align="center">
-  <img src="./img/ASGCN.png" width="500px;"/>
+  <img src="./img/ASGCN.png" width="600px;"/>
 </p>
 
 
