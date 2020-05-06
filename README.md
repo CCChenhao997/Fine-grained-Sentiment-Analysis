@@ -165,6 +165,16 @@
 </p>
 
 
+-----------
+
+- **[IJCAI-2019]** Learn to Select via Hierarchical Gate Mechanism for Aspect-Based Sentiment Analysis [[paper]](https://www.ijcai.org/Proceedings/2019/717)
+
+<p align="center">
+  <img src="./img/HGMN.png" width="600px;"/>
+</p>
+
+
+
 ---------
 
 - **[EMNLP-2019]** A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis [[paper]](https://arxiv.org/abs/1909.00324) [[code]](https://github.com/XL2248/AGDT)
