@@ -245,6 +245,16 @@
 </p>
 
 
+-------------
+
+- **[IJCAI-2019]** A Span-based Joint Model for Opinion Target Extraction and Target Sentiment Classiﬁcation [[paper]](https://www.ijcai.org/Proceedings/2019/762)
+
+<p align="center">
+  <img src="./img/Span-based-E2E-ABSA.png" width="600px;"/>
+</p>
+
+
+
 ------
 
 ### Complete ABSA
@@ -295,6 +305,8 @@
 <p align="center">
   <img src="./img/TOWE.png" width="600px;"/>
 </p>
+
+
 ------
 
 ### ATE & OTE
