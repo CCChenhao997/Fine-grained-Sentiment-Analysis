@@ -74,7 +74,6 @@
 </p>
 
 
-
 ------------
 
 - **[EMNLP-2016]** Aspect Level Sentiment Classification with Deep Memory Network [[paper]](https://www.aclweb.org/anthology/D16-1021/)
@@ -82,7 +81,6 @@
 <p align="center">
   <img src="./img/MemNet.png" width="500px;"/>
 </p>
-
 
 
 --------
@@ -156,6 +154,17 @@
 </p>
 
 
+----------------
+
+- **[CoNLL-2018]** Hierarchical Attention Based Position-aware Network for Aspect-level Sentiment Analysis
+
+  [[paper]](https://www.aclweb.org/anthology/K18-1018/) [[code]](https://github.com/DUT-LiuYang/Aspect-Sentiment-Analysis)
+
+<p align="center">
+  <img src="./img/HAPN.png" width="500px;"/>
+</p>
+
+
 
 ------------
 
@@ -173,7 +182,6 @@
 <p align="center">
   <img src="./img/HGMN.png" width="600px;"/>
 </p>
-
 
 
 ---------
@@ -194,7 +202,6 @@
 </p>
 
 
-
 -------------
 
 - **[EMNLP-2019]** Capsule Network with Interactive Attention for Aspect-Level Sentiment Classiﬁcation [[paper]](https://www.aclweb.org/anthology/D19-1551/)
@@ -202,7 +209,6 @@
 <p align="center">
   <img src="./img/IACapsNet.png" width="450px;"/>
 </p>
-
 
 
 --------------
@@ -214,7 +220,6 @@
 </p>
 
 
-
 ----------------
 
 - **[EMNLP-2019]** Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree [[paper]](https://www.aclweb.org/anthology/D19-1569/) [[code]](https://github.com/sunkaikai/CDT_ABSA)
@@ -222,7 +227,6 @@
 <p align="center">
   <img src="./img/CDT.png" width="700px;"/>
 </p>
-
 
 
 ------
@@ -263,7 +267,6 @@
 <p align="center">
   <img src="./img/Span-based-E2E-ABSA.png" width="600px;"/>
 </p>
-
 
 
 ------
