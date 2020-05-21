@@ -229,6 +229,16 @@
 </p>
 
 
+------------------------
+
+- [AAAI-2019] A Human-Like Semantic Cognition Network for Aspect-Level Sentiment Classiﬁcation [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/4635/4513)
+
+<p align="center">
+  <img src="./img/HSCN.png" width="600px;"/>
+</p>
+
+
+
 ------
 
 ### E2E-ABSA
