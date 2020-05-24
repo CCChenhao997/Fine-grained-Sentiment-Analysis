@@ -231,10 +231,20 @@
 
 ------------------------
 
-- [AAAI-2019] A Human-Like Semantic Cognition Network for Aspect-Level Sentiment Classiﬁcation [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/4635/4513)
+- **[AAAI-2019]** A Human-Like Semantic Cognition Network for Aspect-Level Sentiment Classiﬁcation [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/4635/4513)
 
 <p align="center">
   <img src="./img/HSCN.png" width="600px;"/>
+</p>
+
+
+
+-----------------
+
+- **[EMNLP-2019]** CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/D19-1467.pdf)
+
+<p align="center">
+  <img src="./img/CAN.png" width="600px;"/>
 </p>
 
 
