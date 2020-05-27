@@ -156,6 +156,26 @@
 
 ----------------
 
+- **[NAACL-2018]** Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/N18-2043)
+
+<p align="center">
+  <img src="./img/Inter-Aspect.png" width="600px;"/>
+</p>
+
+
+
+------------
+
+- **[EMNLP-2018]** IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/D18-1377)
+
+<p align="center">
+  <img src="./img/IARM.png" width="600px;"/>
+</p>
+
+
+
+----------------
+
 - **[CoNLL-2018]** Hierarchical Attention Based Position-aware Network for Aspect-level Sentiment Analysis
 
   [[paper]](https://www.aclweb.org/anthology/K18-1018/) [[code]](https://github.com/DUT-LiuYang/Aspect-Sentiment-Analysis)
@@ -163,7 +183,6 @@
 <p align="center">
   <img src="./img/HAPN.png" width="500px;"/>
 </p>
-
 
 
 ------------
@@ -238,7 +257,6 @@
 </p>
 
 
-
 -----------------
 
 - **[EMNLP-2019]** CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/D19-1467.pdf)
@@ -246,7 +264,6 @@
 <p align="center">
   <img src="./img/CAN.png" width="600px;"/>
 </p>
-
 
 
 ------
