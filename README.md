@@ -163,7 +163,6 @@
 </p>
 
 
-
 ------------
 
 - **[EMNLP-2018]** IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/D18-1377)
@@ -171,7 +170,6 @@
 <p align="center">
   <img src="./img/IARM.png" width="600px;"/>
 </p>
-
 
 
 ----------------
@@ -183,6 +181,16 @@
 <p align="center">
   <img src="./img/HAPN.png" width="500px;"/>
 </p>
+
+
+-------------------
+
+- **[COLING-2018]** Effective Attention Modeling for Aspect-Level Sentiment Classiﬁcation [[paper]](https://www.aclweb.org/anthology/C18-1096/)
+
+<p align="center">
+  <img src="./img/Effective-Attention-Model.png" width="600px;"/>
+</p>
+
 
 
 ------------
