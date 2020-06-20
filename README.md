@@ -279,7 +279,7 @@
 
 ------------------------
 
-- **[EMNLP-2019]** Syntax-Aware Aspect Level Sentiment Classiﬁcation with Graph Attention Networks [[paper]](https://www.aclweb.org/anthology/D19-1549.pdf)
+- **[EMNLP-2019]** Syntax-Aware Aspect Level Sentiment Classiﬁcation with Graph Attention Networks [[paper]](https://www.aclweb.org/anthology/D19-1549.pdf) [[code]](https://www.dropbox.com/sh/bwkyo58cymy3x9v/AACaiOBKZNtObf5pzevjJQVva?dl=0)
 
 
 
@@ -311,7 +311,7 @@
 
 ----------------
 
-- **[ACL-2020]** Relational Graph Attention Network for Aspect-based Sentiment Analysis [[paper]](https://arxiv.org/abs/2004.12362)
+- **[ACL-2020]** Relational Graph Attention Network for Aspect-based Sentiment Analysis [[paper]](https://arxiv.org/abs/2004.12362) [[code]](https://github.com/shenwzh3/RGAT-ABSA)
 
 <p align="center">
   <img src="./img/R-GAT.png" width="400px;"/>
