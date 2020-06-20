@@ -192,7 +192,6 @@
 </p>
 
 
-
 ------------
 
 - **[ACL-2018]** Transformation Networks for Target-Oriented Sentiment Classiﬁcation [[paper]](https://www.aclweb.org/anthology/P18-1087/)
@@ -238,7 +237,29 @@
 </p>
 
 
---------------
+-----------------
+
+- **[AAAI-2019]** A Human-Like Semantic Cognition Network for Aspect-Level Sentiment Classiﬁcation [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/4635/4513)
+
+<p align="center">
+  <img src="./img/HSCN.png" width="600px;"/>
+</p>
+
+
+
+-----------------
+
+- **[EMNLP-2019]** CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/D19-1467.pdf)
+
+<p align="center">
+  <img src="./img/CAN.png" width="600px;"/>
+</p>
+
+
+
+---------------
+
+#### GNN-based
 
 - **[EMNLP-2019]** Aspect-based Sentiment Classiﬁcation with Aspect-speciﬁc Graph Convolutional Networks [[paper]](https://arxiv.org/abs/1909.03477) [[code]](https://github.com/GeneZC/ASGCN)
 
@@ -258,21 +279,43 @@
 
 ------------------------
 
-- **[AAAI-2019]** A Human-Like Semantic Cognition Network for Aspect-Level Sentiment Classiﬁcation [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/4635/4513)
+- **[EMNLP-2019]** Syntax-Aware Aspect Level Sentiment Classiﬁcation with Graph Attention Networks [[paper]](https://www.aclweb.org/anthology/D19-1549.pdf)
 
-<p align="center">
-  <img src="./img/HSCN.png" width="600px;"/>
-</p>
 
 
 -----------------
 
-- **[EMNLP-2019]** CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/D19-1467.pdf)
+- **[arXiv-2019]** Modeling Sentiment Dependencies with Graph Convolutional Networks for Aspect-levelSentiment Classification [[paper]](https://arxiv.org/abs/1906.04501)
 
 <p align="center">
-  <img src="./img/CAN.png" width="600px;"/>
+  <img src="./img/SDGCN.png" width="500px;"/>
 </p>
 
+
+
+--------------
+
+- **[arXiv-2020]** Exploiting Typed Syntactic Dependencies for Targeted Sentiment ClassificationUsing Graph Attention Neural Network [[paper]](https://arxiv.org/abs/2002.09685)
+
+<p align="center">
+  <img src="./img/RGAT.png" width="600px;"/>
+</p>
+
+--------------
+
+- **[arXiv-2020]** Selective Attention Based Graph Convolutional Networks for Aspect-Level Sentiment Classification [[paper]](https://arxiv.org/abs/1910.10857)
+
+<p align="center">
+  <img src="./img/SA-GCN.png" width="500px;"/>
+</p>
+
+----------------
+
+- **[ACL-2020]** Relational Graph Attention Network for Aspect-based Sentiment Analysis [[paper]](https://arxiv.org/abs/2004.12362)
+
+<p align="center">
+  <img src="./img/R-GAT.png" width="400px;"/>
+</p>
 
 ------
 
