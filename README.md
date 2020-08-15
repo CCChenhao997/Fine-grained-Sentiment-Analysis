@@ -246,7 +246,6 @@
 </p>
 
 
-
 -----------------
 
 - **[EMNLP-2019]** CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/D19-1467.pdf)
@@ -254,7 +253,6 @@
 <p align="center">
   <img src="./img/CAN.png" width="600px;"/>
 </p>
-
 
 
 ---------------
@@ -292,7 +290,6 @@
 </p>
 
 
-
 --------------
 
 - **[arXiv-2020]** Exploiting Typed Syntactic Dependencies for Targeted Sentiment ClassificationUsing Graph Attention Neural Network [[paper]](https://arxiv.org/abs/2002.09685)
@@ -300,7 +297,6 @@
 <p align="center">
   <img src="./img/RGAT.png" width="600px;"/>
 </p>
-
 --------------
 
 - **[arXiv-2020]** Selective Attention Based Graph Convolutional Networks for Aspect-Level Sentiment Classification [[paper]](https://arxiv.org/abs/1910.10857)
@@ -308,7 +304,6 @@
 <p align="center">
   <img src="./img/SA-GCN.png" width="500px;"/>
 </p>
-
 ----------------
 
 - **[ACL-2020]** Relational Graph Attention Network for Aspect-based Sentiment Analysis [[paper]](https://arxiv.org/abs/2004.12362) [[code]](https://github.com/shenwzh3/RGAT-ABSA)
@@ -316,7 +311,6 @@
 <p align="center">
   <img src="./img/R-GAT.png" width="400px;"/>
 </p>
-
 ------
 
 ### E2E-ABSA
@@ -355,6 +349,21 @@
 <p align="center">
   <img src="./img/Span-based-E2E-ABSA.png" width="600px;"/>
 </p>
+
+
+-------------------
+
+- **[ACL-2020]** Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/2020.acl-main.293/)
+
+<table>
+    <tr>
+        <td ><center><img src="./img/ModellingCSF01.png" style="zoom:30%;" />
+        </center></td>
+        <td ><center><img src="./img/ModellingCSF02.png" style="zoom:30%;" />
+        </center></td>
+    </tr>
+</table>
+
 
 
 ------
@@ -396,6 +405,12 @@
 <p align="center">
   <img src="./img/Seq2Seq4ATE.png" width="500px;"/>
 </p>
+
+
+-------------------
+
+- **[ACL-2020]** Don’t Eclipse Your Arts Due to Small Discrepancies: Boundary Repositioning with a Pointer Network for Aspect Extraction [[paper]](https://www.aclweb.org/anthology/2020.acl-main.339/)
+
 
 
 -------------
