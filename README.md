@@ -6,11 +6,12 @@
   - ASC: Aspect Sentiment Classification
     - ATSA: Aspect-Term Sentiment Analysis
     - ACSA: Aspect-Category Sentiment Analysis
-  - E2E-ABSA
-  - Complete ABSA
   - ATE: Aspect Term Extraction
   - OTE: Opinion Term Extraction
-
+  - Aspect-Sentiment Pair Extraction (ASPE)
+  - Aspect and Opinion Term Co-Extraction (AOTE)
+- Aspect Sentiment Triplet Extraction (ASTE)
+  
 - Emotion Analysis
 
 
@@ -18,11 +19,11 @@
 | Tasks            | Input            | Output                                      |
 | ---------------- | :--------------- | ------------------------------------------- |
 | ASC              | sentence, aspect | aspect sentiment                            |
-| E2E-ABSA         | sentence         | aspect term, aspect sentiment               |
-| Complete-ABSA    | sentence         | aspect term, aspect sentiment, opinion term |
+| ASPE             | sentence         | aspect term, aspect sentiment               |
+| ASTE             | sentence         | aspect term, aspect sentiment, opinion term |
 | ATE              | sentence         | aspect term                                 |
 | OTE              | sentence         | opinion term                                |
-| ATE&OTE          | sentence         | aspect term, opinion term                   |
+| AOTE             | sentence         | aspect term, opinion term                   |
 | Emotion Analysis | sentence         | joy, anger, fear, etc.                      |
 
 --------------
