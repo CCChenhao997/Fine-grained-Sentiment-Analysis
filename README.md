@@ -21,7 +21,7 @@
 | E2E-ABSA         | sentence         | aspect term, aspect sentiment               |
 | Complete-ABSA    | sentence         | aspect term, aspect sentiment, opinion term |
 | ATE              | sentence         | aspect term                                 |
-| OTE              | sentence, aspect | opinion term                                |
+| OTE              | sentence         | opinion term                                |
 | ATE&OTE          | sentence         | aspect term, opinion term                   |
 | Emotion Analysis | sentence         | joy, anger, fear, etc.                      |
 
