@@ -320,7 +320,7 @@
 
 ------
 
-### E2E-ABSA
+### ASPE
 
 - **[AAAI-2019]** A Uniﬁed Model for Opinion Target Extraction and Target Sentiment Prediction [[paper]](https://arxiv.org/abs/1811.05082)
 
@@ -375,7 +375,7 @@
 
 ------
 
-### Complete ABSA
+### ASTE
 
 - **[AAAI-2020]** Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis [[paper]](https://arxiv.org/abs/1911.01616v2)
 
@@ -433,7 +433,7 @@
 
 ------
 
-### ATE & OTE
+### AOTE
 
 - **[AAAI-2017]** Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms [[paper]](http://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/15-Wang-W-14441.pdf)
 
